@@ -25,7 +25,7 @@ test_requirements = [
 
 setup(
     name='semvercli',
-    version='0.1.0',
+    version='0.1.3',
     description="basic CLI for python-semver",
     long_description=readme + '\n\n' + history,
     author="matthew davidson",
