@@ -4,4 +4,4 @@
 
 __author__ = """ingrooves"""
 __email__ = 'support@ingrooves.com'
-__version__ = '0.1.1'
+__version__ = '0.1.2'
