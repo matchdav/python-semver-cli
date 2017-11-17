@@ -4,7 +4,7 @@
 
 import click
 import semvercli
-from __init__ import __version__
+from meta import __version__
 
 
 @click.group()
